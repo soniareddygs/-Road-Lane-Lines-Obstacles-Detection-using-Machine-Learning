@@ -42,7 +42,7 @@ c) Click directly on the command run for the execution of "main.py" in Lane line
 - Lane.mp4 is the video file for detection of road lane lines.
 The system will open a window showing the
 original video stream with the detected lane
-lines and potholes highlighted in green respectively.
+lines and potholes highlighted in green and black respectively.
 
 ## Ultimate Result
 For Road lane line detection :
