@@ -8,10 +8,14 @@ This is just an example of few instructions to be looked up on for setting up th
 ### Dependencies
 This project requires the following dependencies:
 
-Python 3
-OpenCV
-NumPy
-YOLOv4
+- Python 3  
+
+- OpenCV  
+
+- NumPy  
+
+- YOLOv4  
+
 You can install the dependencies by running the following command:
  ```For pothole Detector  
 pip install opencv-python
